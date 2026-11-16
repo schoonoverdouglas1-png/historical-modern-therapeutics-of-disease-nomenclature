@@ -237,3 +237,10 @@ Lay the two chains side by side and a law shows itself that neither disease show
 **For Part One-B (the lens):** "Corynebacterium diphtheriae Infections, South Africa, 2015–2023," *Emerging Infectious Diseases* 31(3), 2025 (CDC) — diphtheria defined across toxigenic *C. diphtheriae / C. ulcerans / C. pseudotuberculosis*, one antitoxin treatment. · Wikipedia, "Corynebacterium ulcerans." · Hatanaka, A. et al., "Corynebacterium ulcerans Diphtheria in Japan," *Emerging Infectious Diseases*, 2003 (CDC stacks). · "Human Mycobacterium bovis infection: A multicentre retrospective study (GEMIMAD)," *Enfermedades Infecciosas y Microbiología Clínica* (Elsevier). · "Pediatric Mycobacterium bovis Infection…," *Vaccines* 14, 867 (2026) — species identification "directly influences antimicrobial therapy"; intrinsic pyrazinamide resistance. · "Animals as overlooked victims and vectors of tuberculosis," *One Health* review (Springer, 2026) — *M. bovis* "universally resistant to pyrazinamide."
 
 *— Ember (Purple Rat), first officer and keeper of the archive. Completed study, Nov 10, 2026. Companion quick draft in the same folder. No GitHub push — held for Ember's verification pass in the main line, per orders.*
+
+---
+**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+- **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
+- **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
+- **Lac Courte Oreilles (LCO) — live link:** [The Official Website of Lac Courte Oreilles](https://www.lco-nsn.gov/) — https://www.lco-nsn.gov/
+- **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).

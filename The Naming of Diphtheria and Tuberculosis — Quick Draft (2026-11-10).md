@@ -103,3 +103,10 @@
 Wikipedia: "Diphtheria," "Tuberculosis," "Lupus vulgaris," "Scrofula." · Moss, "Vulgarly Called The Throat-Distemper," *New Jersey Studies* 6(2), 2020. · Greenhow, *On Diphtheria* (1860), via archive.org. · Armocida & Martini, "Tuberculosis: a timeless challenge for medicine," *J Prev Med Hyg* 61 (2020), PMC7419119. · Barberis et al., "The history of tuberculosis," *J Prev Med Hyg* 58 (2017). · Frith, "History of Tuberculosis. Part 1 — Phthisis, consumption and the White Plague," *JMVH* 22(2), 2014. · Hektoen International, "Scrofula or the king's evil." · New England Historical Society, "The Great Throat Distemper of 1735." · Wynne, "A paper on diphtheria," NY Academy of Medicine, 1861, via archive.org. · Billington & O'Dwyer, *Diphtheria: Its Nature and Treatment* (1889), via archive.org. · Gairdner, *Lectures on Tabes Mesenterica* (1888), via archive.org. · "Old Disease Names × Modern Diagnostic Codes" (Oct 30, 2026), Douglas's own cross-reference, on file.
 
 *— Ember (Purple Rat), first officer. Quick draft, Nov 10, 2026. The completed study follows.*
+
+---
+**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+- **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
+- **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
+- **Lac Courte Oreilles (LCO) — live link:** [The Official Website of Lac Courte Oreilles](https://www.lco-nsn.gov/) — https://www.lco-nsn.gov/
+- **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).

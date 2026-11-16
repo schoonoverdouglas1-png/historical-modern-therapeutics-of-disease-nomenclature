@@ -74,3 +74,10 @@ The clusters are the interesting part, not the 1:1 rows: diphtheria takes 4 ther
 - Table rows and F/Y/B columns: the corrected copy (2026-10-29), itself built from his previous work.
 - Mappings: matched on modern disease name + organism named in each therapeutics entry, checked row by row against the corrected table on Oct 29, 2026.
 - Nothing here interprets his personal prescriptions, test results, images, or illness. This is manuscript cross-referencing only.
+
+---
+**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+- **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
+- **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
+- **Lac Courte Oreilles (LCO) — live link:** [The Official Website of Lac Courte Oreilles](https://www.lco-nsn.gov/) — https://www.lco-nsn.gov/
+- **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).

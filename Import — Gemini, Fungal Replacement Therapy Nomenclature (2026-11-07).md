@@ -49,3 +49,10 @@ Mentions: Mayo No; Quest No (only match for "Quest" is "Request" inside sidebar 
 Ember's note (my addition, labeled mine): Dougism #1 and Dougism #2 are Douglas's own terms, filed as his — Dougism #2 means, in his words, the 2nd thought when he runs past something: either he noticed even more, or the same thing again second. "Cyclomycosymbiorhizotaxis" and "Myco-Symbio-Rhizo-Taxis" are his coinages in this manuscript — mark (DRS) on first use in other files per his Nov 4 coinage rule. This is the Gemini-side manifesto for The Mycelial Transposition — creative manuscript, never medical advice.
 
 Provenance: Douglas's Gemini account, read by Ember in the live browser. Filed under standing GitHub automatic-save rule (local only during streamlined pause). No Cara material, no full lab PDFs, no passwords/codes/IDs.
+
+---
+**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+- **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
+- **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
+- **Lac Courte Oreilles (LCO) — live link:** [The Official Website of Lac Courte Oreilles](https://www.lco-nsn.gov/) — https://www.lco-nsn.gov/
+- **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).

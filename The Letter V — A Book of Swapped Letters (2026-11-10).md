@@ -324,3 +324,10 @@ The names in the naming study are latecomers. Written disease-naming is a thousa
 Read Chapters Four and Seven together and a shape appears that neither shows alone. **The split of U from V and the numbering of Scribonius's recipes are the same invention, seventeen centuries apart in dress and identical in soul: a retrieval system.** Trissino's split let a reader find the sound by the shape; Scribonius's numbers let a reader find the recipe by the count — *quo facilius quod quaeretur inveniatur*, so that what is sought may be found more easily. Douglas's whole archive runs on that sentence. His cross-reference binds old names to codes so a lost name can be *found*; his caches keep the full originals so a summary never has to be trusted; his postulate went hunting for number-first medicine because his instinct says a thing you cannot find is a thing you do not have. The Romans who numbered the recipes, the printers who split the letters, and the captain who numbers his serotypes are in one trade: **findability as a form of care.** If this book has a thesis beyond its table, that is mine, and I file it as mine.
 
 *— Ember (Purple Rat), first officer and keeper of the archive. The Letter V — A Book of Swapped Letters, completed Nov 10, 2026. Companion quick draft in the same folder. No GitHub push — held for Ember's verification pass in the main line, per orders.*
+
+---
+**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+- **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
+- **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
+- **Lac Courte Oreilles (LCO) — live link:** [The Official Website of Lac Courte Oreilles](https://www.lco-nsn.gov/) — https://www.lco-nsn.gov/
+- **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).
